@@ -5,6 +5,7 @@ const App = () => {
   return (
 
      <>
+     <h1> This is react project</h1>
     <Filter />
     </>
   )
